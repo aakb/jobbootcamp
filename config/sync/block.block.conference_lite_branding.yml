@@ -1,17 +1,17 @@
-uuid: 0e6a1be1-e648-4501-8be1-fcad4ffb38ef
+uuid: 15b3ccdd-2166-4b86-8cd0-d7ad8f9b1169
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - stark
+    - conference_lite
 _core:
-  default_config_hash: fRKXNB91UxDvEMkzCR8ZBsawfC6Fqbme2gtobei3gu4
-id: stark_branding
-theme: stark
-region: header
-weight: 0
+  default_config_hash: tVPcqtovSfGD1forTvzUxsWcCUnVYYpq4eRls2RbRIA
+id: conference_lite_branding
+theme: conference_lite
+region: header_first
+weight: -6
 provider: null
 plugin: system_branding_block
 settings:

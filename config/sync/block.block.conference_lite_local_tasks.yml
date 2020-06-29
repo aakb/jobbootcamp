@@ -1,15 +1,15 @@
-uuid: 78c9858d-570f-4cbd-9e02-4a79151fb717
+uuid: f81327dc-52f0-474f-b41e-794daf7b370f
 langcode: en
 status: true
 dependencies:
   theme:
-    - stark
+    - conference_lite
 _core:
-  default_config_hash: c-06bbElRY5sKmglk74ppgTW93Et4-EJFyNiUZMb8JY
-id: stark_local_tasks
-theme: stark
+  default_config_hash: q_niBaXGaOjV5QbQWEnavKLwFjK1fEmhkgoFfOgQOE0
+id: conference_lite_local_tasks
+theme: conference_lite
 region: content
-weight: -20
+weight: -7
 provider: null
 plugin: local_tasks_block
 settings:

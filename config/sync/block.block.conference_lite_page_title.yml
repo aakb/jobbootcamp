@@ -1,15 +1,15 @@
-uuid: 542841da-33f4-4629-aaa7-59e4cc3f5277
+uuid: dfee1269-c461-4042-aa65-66515e6ab2c7
 langcode: en
 status: true
 dependencies:
   theme:
-    - stark
+    - conference_lite
 _core:
-  default_config_hash: 8yptDf6WrXxeyevUz4nP5vfr7BtxQqCBMninhV2IJ1g
-id: stark_page_title
-theme: stark
+  default_config_hash: S-y9o4BFwgSGBIZ9ynn1hHzxajvMcM1l5hjGsFSxH3Y
+id: conference_lite_page_title
+theme: conference_lite
 region: content
-weight: -30
+weight: -7
 provider: null
 plugin: page_title_block
 settings:

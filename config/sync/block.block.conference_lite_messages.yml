@@ -1,17 +1,17 @@
-uuid: 93fdf57c-5cdc-4534-8419-f5ec9dea7b11
+uuid: c16ae388-6297-42b5-9499-89a4fb69c7b9
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - stark
+    - conference_lite
 _core:
-  default_config_hash: 5MNdk3fpMKx_xxBTcz2T11DL4XEU1H5SgHl8BsYdFsA
-id: stark_messages
-theme: stark
-region: highlighted
-weight: 0
+  default_config_hash: bzk5UBBQt1rvuXnDrmcfi4lwTFM7md8-E1u0swI7dgA
+id: conference_lite_messages
+theme: conference_lite
+region: system_messages
+weight: -4
 provider: null
 plugin: system_messages_block
 settings:
